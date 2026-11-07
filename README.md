@@ -1,7 +1,7 @@
 
-#*File .sh khi tải về có thể sẽ bị chặn quyền, trong trường hợp đó cấp quyền cho file test.script bằng lệnh: chmod +x ./test_scripts/*.sh
-#*lệnh test base : ./test_scripts/test.sh RTP-base
-#*lệnh test otp : ./test_scripts/test.sh RTP-opt
+## File .sh khi tải về có thể sẽ bị chặn quyền, trong trường hợp đó cấp quyền cho file test.script bằng lệnh: chmod +x ./test_scripts/*.sh
+## lệnh test base : ./test_scripts/test.sh RTP-base
+## lệnh test otp : ./test_scripts/test.sh RTP-opt
 ## Objectives
 
 * Implement a simple reliable transport protocol.
